@@ -1,4 +1,4 @@
-#💫 About Me:
+# 💫 About Me:
 Hey there, I'm Kabilesh, a freshman at SRM Institute of Science and Technology (SRMIST), pursuing a Bachelor of Technology in Computer Science. I am an enthusiastic and driven individual who is always eager to take on new challenges and solve complex problems. As a budding computer scientist, I am continuously striving to expand my knowledge and skills. I believe that the key to success is not just what you know, but also how you approach learning. That's why I always keep an open mind and an insatiable curiosity, so I can keep up with the rapidly evolving tech industry. With a motivated attitude and a variety of powerful skills, I am confident that I can make a positive impact in the world of technology. I am excited to share my journey and my projects with you on my Git page, and I hope to connect with other developers who share my passion for innovation and progress.
 
 
